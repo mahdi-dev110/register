@@ -1,0 +1,11 @@
+{
+  "description": "Mahdi's frontend dev portfolio",
+  "repo": "https://github.com/mahdi-dev110",
+  "owner": {
+    "username": "mahdi-dev110",
+    "email": "muntazirmahdi.dev@gmail.com"
+  },
+  "record": {
+    "CNAME": "mahdi-porfolio.muntazirmahdi-dev.workers.dev"
+  }
+}
