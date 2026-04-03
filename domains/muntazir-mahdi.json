@@ -1,0 +1,12 @@
+{
+  "$schema": "https://raw.githubusercontent.com/is-a-dev/register/main/schemas/domain.json",
+  "description": "Mahdi's frontend dev portfolio",
+  "repo": "https://github.com/mahdi-dev110",
+  "owner": {
+    "username": "mahdi-dev110",
+    "email": "muntazirmahdi.dev@gmail.com"
+  },
+  "records": {
+    "CNAME": "mahdi-portfolio.pages.dev"
+  }
+}
